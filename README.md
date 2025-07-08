@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **LLMs, Quantum Computing**
 - 👯 I’m looking to collaborate on **Full stack projects**
 - 🤝 I’m looking for help with **learning Quantum Computing**
-- 💬 Ask me about **React, VBA, Automation**
+- 💬 Ask me about **React, VBA, AI Agents & Automation**
 - 📫 Reach me at **akamit131020@gmail.com**
 - ⚡ Fun fact: **We are not Humans — we are "Hoomans" 😂**
 
