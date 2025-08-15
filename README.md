@@ -2,7 +2,7 @@
 <h3 align="center">A passionate and enthusiastic Software Engineer from India</h3>
 
 - 🌱 I’m currently learning **LLMs, Quantum Computing**
-- 👯 I’m looking to collaborate on **Full stack projects**
+- 👯 I’m looking to collaborate on **Full stack projects, SAP ABAP Projects**
 - 🤝 I’m looking for help with **learning Quantum Computing**
 - 💬 Ask me about **React, VBA, AI Agents & Automation**
 - 📫 Reach me at **akamit131020@gmail.com**
