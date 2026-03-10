@@ -26,7 +26,7 @@
 
 ---
 
-I'm a Software Engineer who loves building things that actually solve problems — from sleek full-stack web apps to intelligent AI-powered automations. Right now, I'm deep-diving into **LLMs** and the mind-bending world of **Quantum Computing**, chasing the intersection where classical software ends and the future begins. If you're working on an exciting **full-stack project** and need a collaborator who brings both frontend finesse and backend muscle, let's connect. Got questions about **React, AI Agents, VBA, or Automation**? My inbox is always open. 🚀
+I'm a Software Engineer who loves building things that actually solve problems — from sleek full-stack web apps to intelligent AI-powered automations. Right now, I'm deep-diving into **Agentic Coding and System Architecture** and the mind-bending world of **Quantum Computing**, chasing the intersection where classical software ends and the future begins. If you're working on an exciting **full-stack project** and need a collaborator who brings both frontend finesse and backend muscle, let's connect. Got questions about **Full Stack Dev and AI Automation**? My inbox is always open. 🚀
 
 > ⚡ **Fun fact:** A quantum computer can solve in seconds what would take a classical computer longer than the age of the universe — and I'm actively learning how to program one.
 
