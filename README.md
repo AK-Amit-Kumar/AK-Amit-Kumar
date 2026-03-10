@@ -1,110 +1,174 @@
-<h1 align="center">Hi 👋, I'm Amit</h1>
-<h3 align="center">A passionate and enthusiastic Software Engineer from India</h3>
+<div align="center">
 
-- 🌱 I’m currently learning **LLMs, Quantum Computing**
-- 👯 I’m looking to collaborate on **Full stack projects, SAP ABAP Projects**
-- 🤝 I’m looking for help with **learning Quantum Computing**
-- 💬 Ask me about **React, VBA, AI Agents & Automation**
-- 📫 Reach me at **akamit131020@gmail.com**
-- ⚡ Fun fact: **We are not Humans — we are "Hoomans" 😂**
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0FAAFF,100:6C3CE1&height=200&section=header&text=Hey%20there,%20I'm%20Amit!%20👋&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20%7C%20AI%20Enthusiast&descAlignY=60&descSize=18&animation=fadeIn"/>
 
----
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=0FAAFF&center=true&vCenter=true&multiline=false&width=650&lines=Building+things+that+matter+%F0%9F%9A%80;React+%7C+Node.js+%7C+AI+Agents;Exploring+LLMs+%26+Quantum+Computing+%E2%9A%9B%EF%B8%8F;We+are+not+Humans+%E2%80%94+we+are+%22Hoomans%22+%F0%9F%98%82" alt="Typing SVG" />
+</a>
 
-### 🌐 Connect with me
+<br/>
+
+<!-- Social Badges -->
 <p>
-  <a href="https://linkedin.com/in/amit-kumar-160767191" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" height="30"/>
+  <a href="https://linkedin.com/in/amit-kumar-160767191">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&style=for-the-badge&logoColor=white"/>
   </a>
-  <a href="https://kaggle.com/akamitkumar" target="blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&style=for-the-badge&logoColor=white" height="30"/>
+  <a href="mailto:akamit131020@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Reach%20Me-EA4335?logo=gmail&style=for-the-badge&logoColor=white"/>
   </a>
 </p>
 
----
+<img src="https://komarev.com/ghpvc/?username=akamitkumar&label=Profile+Views&color=0FAAFF&style=flat-square" alt="profile views"/>
 
-### 💻 Programming Languages & SAP Skills
-<p>
-  <img src="https://img.shields.io/badge/ABAP-0FAAFF?logo=sap&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ABAP%20OO-0FAAFF?logo=sap&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Web%20Dynpro%20ABAP-0FAAFF?logo=sap&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SAP%20Gateway-0FAAFF?logo=sap&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SAP%20OData-0FAAFF?logo=sap&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/REST%20APIs-FF6F00?logo=api&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
-</p>
+</div>
 
 ---
 
-### 🧰 Frontend Development
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white&style=for-the-badge"/>
-</p>
+I'm a Software Engineer who loves building things that actually solve problems — from sleek full-stack web apps to intelligent AI-powered automations. Right now, I'm deep-diving into **LLMs** and the mind-bending world of **Quantum Computing**, chasing the intersection where classical software ends and the future begins. If you're working on an exciting **full-stack project** and need a collaborator who brings both frontend finesse and backend muscle, let's connect. Got questions about **React, AI Agents, VBA, or Automation**? My inbox is always open. 🚀
+
+> ⚡ **Fun fact:** A quantum computer can solve in seconds what would take a classical computer longer than the age of the universe — and I'm actively learning how to program one.
 
 ---
 
-### 🖥 Backend & Frameworks
-<p>
-  <img src="https://img.shields.io/badge/BAPI-0FAAFF?logo=sap&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/BADI-0FAAFF?logo=sap&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RFC-0FAAFF?logo=sap&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/IDOC-0FAAFF?logo=sap&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ALV-0FAAFF?logo=sap&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Dialog%20Programming-0FAAFF?logo=sap&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Adobe%20Forms-0FAAFF?logo=adobeacrobatreader&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Smartforms-0FAAFF?logo=sap&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/User%20Exits-0FAAFF?logo=sap&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Enhancement%20Framework-0FAAFF?logo=sap&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge"/>
-</p>
+## 🛠️ Tech Stack & Skills
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" /><br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /><br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" /><br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" /><br>C++
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" width="80" /><br>SQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" /><br>Bash
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" /><br>Postman
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/REST-FF6F00?style=flat-square" width="80" /><br>REST APIs
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /><br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="Angular" /><br>Angular
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" /><br>Next.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" /><br>Tailwind CSS
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" /><br>Bootstrap
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" /><br>HTML
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" /><br>CSS
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" /><br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" /><br>FastAPI
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express.js" /><br>Express.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" /><br>Flask
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" /><br>Django
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" width="80" /><br>Celery
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /><br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" /><br>PostgreSQL
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" /><br>Redis
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure" /><br>Azure
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /><br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="CI/CD" /><br>CI/CD
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /><br>GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" /><br>Linux
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" /><br>VS Code
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" /><br>Figma
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" /><br>Vercel
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=netlify" width="48" height="48" alt="Netlify" /><br>Netlify
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/Cursor_AI-000000?style=flat-square&logo=cursor&logoColor=white" width="80" /><br>Cursor AI
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/Lovable-FF6B6B?style=flat-square&logoColor=white" width="80" /><br>Lovable
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/Canva_AI-00C4CC?style=flat-square&logo=canva&logoColor=white" width="80" /><br>Canva AI
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google-gemini&logoColor=white" width="80" /><br>Gemini
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/Claude_AI-D97757?style=flat-square&logoColor=white" width="80" /><br>Claude AI
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white" width="80" /><br>ChatGPT
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📦 SAP Modules & Cloud
-<p>
-  <img src="https://img.shields.io/badge/MM-0FAAFF?logo=sap&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SD-0FAAFF?logo=sap&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/FI-0FAAFF?logo=sap&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Logistics-0FAAFF?logo=sap&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Procurement-0FAAFF?logo=sap&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CRM-0FAAFF?logo=sap&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/GTS-0FAAFF?logo=sap&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/GCP-4285F4?logo=google-cloud&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge"/>
-</p>
-
----
-
-### 🧪 Tools, Data & AI/ML
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white&style=for-the-badge"/>
-</p>
-
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C3CE1,100:0FAAFF&height=120&section=footer"/>
+</div>
