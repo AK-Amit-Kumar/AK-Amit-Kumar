@@ -20,7 +20,6 @@
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=akamitkumar&label=Profile+Views&color=0FAAFF&style=flat-square" alt="profile views"/>
 
 </div>
 
